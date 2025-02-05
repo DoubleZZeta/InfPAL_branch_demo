@@ -9,11 +9,13 @@ def count_down(n):
 def mean(lst):
     return sum(lst)/len(lst)
 
-
+def test():
+    print("test!")
 
 
 
 def main():
     count_up(10)
     count_down(10)
-    print(mean([1,2,3,4,5]))
+    mean([1,2,3,4,5])
+    test()

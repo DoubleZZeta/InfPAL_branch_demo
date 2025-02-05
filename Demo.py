@@ -7,7 +7,8 @@ def count_down(n):
         print(i)
 
 
-
+def sqaure(n):
+    return n*n
 
 
 def main():

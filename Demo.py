@@ -16,4 +16,4 @@ def mean(lst):
 def main():
     count_up(10)
     count_down(10)
-    mean([1,2,3,4,5])
+    print(mean([1,2,3,4,5]))

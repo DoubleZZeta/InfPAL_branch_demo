@@ -9,7 +9,8 @@ def count_down(n):
 def mean(lst):
     return sum(lst)/len(lst)
 
-
+def test():
+    print("test!")
 
 
 

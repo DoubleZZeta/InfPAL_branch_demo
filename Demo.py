@@ -1,5 +1,5 @@
-def printnumbers(n):
-    for i in range n:
+def count_up(n):
+    for i in range(n):
         print(i)
 
 
@@ -9,3 +9,4 @@ def printnumbers(n):
 
 
 def main():
+    count_up(10)
